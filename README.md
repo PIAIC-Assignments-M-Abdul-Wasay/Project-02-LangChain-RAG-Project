@@ -10,8 +10,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Pine
 6. **Query Execution**: Ran queries to retrieve and generate answers using stored documents and the LLM.  
 
 
-### 7. **Query Execution**  
-- Executed the following query using the RAG setup:
+### **Executed the following query using the RAG setup**
   ```text
   input:
   What is my full name?  
